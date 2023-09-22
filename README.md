@@ -1,9 +1,12 @@
-## Olá, eu sou o Lucas, futuro dev aguardando sua primeira oportunidade!
+## Olá, eu sou o Lucas, e este é meu (ou nosso) portifólio :smile:!
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="lucas-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="lucas-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="lucas-BS" height="30" width="26" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png">
+  <img align="center" alt="lucas-BS" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+   <img align="center" alt="lucas-BS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 </div>
   
   ##
